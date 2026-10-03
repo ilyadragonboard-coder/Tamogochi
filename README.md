@@ -33,7 +33,7 @@
 ## Установка и запуск
 
 ```bash
-git clone https://github.com/<your-username>/Tamogochii.git
+git clone https://github.com/ilyadragonboard-coder/Tamogochii.git
 cd Tamogochii
 python main.py
 ```
